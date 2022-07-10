@@ -1,7 +1,7 @@
-Overview
+Overview:
 Cycle is a game where the players try to cut each other off using cycles that leave a trail behind them.
 
-Rules
+Rules:
 Cycle is played according to the following rules.
 
 Players can move up, down, left and right...
